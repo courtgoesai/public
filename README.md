@@ -50,29 +50,11 @@ The council is most useful when there's genuine uncertainty and the cost of gett
 
 ---
 
-## How to install it (no terminal needed)
+## How to install it
 
-Pick whichever option feels easier. Both work in Claude Code and Claude Cowork.
+Full installation instructions are over here: [aiforwomen.io/guides/llm-council](https://aiforwomen.io/guides/llm-council)
 
-### Option 1: Let Claude install it for you
-
-Open a new chat in Claude and paste this in:
-
-> Please install this Claude skill for me. The SKILL.md file lives in this GitHub repo: https://github.com/courtgoesai/public
->
-> Set it up so I can start using it. Walk me through anything you need from me.
-
-Claude will fetch the file and put it in the right place. If it can't do it automatically, it will tell you exactly what to do next.
-
-### Option 2: Download the file and ask Claude to set it up
-
-1. Click [SKILL.md](./SKILL.md) at the top of this repo.
-2. Click the download button on the right side of the file view to save it to your computer.
-3. Open Claude and paste this in:
-
-> I just downloaded a file called SKILL.md for the LLM Council skill. Can you install it for me? Walk me through wherever you need me to put it.
-
-Claude will guide you from there.
+It covers both options — letting Claude install it for you, or downloading the file manually — with screenshots and plain-English steps.
 
 ---
 
